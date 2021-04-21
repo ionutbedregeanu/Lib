@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="loader_size">50dp</dimen>
+    <dimen name="album_top_bottom_margin">16dp</dimen>
+    <dimen name="album_left_right_margin">16dp</dimen>
+    <dimen name="title_padding">8dp</dimen>
+    <dimen name="title_font_size">16sp</dimen>
+    <dimen name="error_font_size">24sp</dimen>
+</resources>
